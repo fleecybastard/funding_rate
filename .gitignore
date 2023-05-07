@@ -1,0 +1,7 @@
+.idea
+.env
+*.docx
+*.xlsx
+venv
+*.csv
+__pycache__
